@@ -1,5 +1,7 @@
 # DevoxxFR 2025
 
+Lien du CFP : [ici](https://devoxxfr2025.cfp.dev)
+
 ## Comment nous avons transformé les Restos du Coeur en Cloud Provider
 
 ### Abstract

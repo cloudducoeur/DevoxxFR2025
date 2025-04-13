@@ -1,8 +1,6 @@
 # DevoxxFR 2025
 
-Lien du CFP : [ici](https://devoxxfr2025.cfp.dev)
-
-## Comment nous avons transformé les Restos du Coeur en Cloud Provider
+## [Comment nous avons transformé les Restos du Coeur en Cloud Provider](https://mobile.devoxx.com/events/devoxxfr2025/talks/6658/details)
 
 Speakers : 
 

@@ -7,6 +7,10 @@ Speakers :
 - Stéphane Trognon
 - Julien Briault
 
+Slides :
+
+- [Ici](https://speakerdeck.com/ju_hnny5/devoxx-france-2025-comment-transformons-nous-les-restos-du-coeur-en-cloud-provider)
+
 ### Abstract
 
 Dans un context où 1 euro = 1 repas, venez découvrir comment un groupe de bénévoles s'est mis en tête de créer un cloud dans le but de "faire plus avec moins".
